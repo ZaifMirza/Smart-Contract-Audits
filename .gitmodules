@@ -1,0 +1,3 @@
+[submodule "2023-10-PasswordStore/lib/forge-std"]
+	path = 2023-10-PasswordStore/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
